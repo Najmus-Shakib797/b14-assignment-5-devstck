@@ -8,11 +8,7 @@ export default function Footer() {
           <div>
             {/* Logo */}
             <div className="flex items-center mb-4">
-              <img
-                src="/public/logo-text.png"
-                alt="Logo"
-                className="h-10 mr-2"
-              />
+              <img src="/logo-text.png" alt="Logo" className="h-10 mr-2" />
               <span className="text-lg font-semibold">Dev Stack</span>
             </div>
 

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "react",
+    "name": "React",
+    "category": "Frontend",
+    "description": "React is a declarative JavaScript library used for building dynamic user interfaces. It follows a component-based architecture, making code reusable and easier to manage. With strong community support and beginner-friendly learning curve, React is one of the most popular frontend technologies today.",
+    "icon": "https://icon.icepanel.io/Technology/svg/React.svg",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Popular"
+  },
+  {
+    "id": "postgresql",
+    "name": "PostgreSQL",
+    "category": "Database",
+    "description": "PostgreSQL is a powerful open-source relational database system known for reliability and advanced features. It supports complex queries, indexing, and transactions, making it ideal for enterprise applications. Developers trust PostgreSQL for scalability and long-term stability.",
+    "icon": "https://icon.icepanel.io/Technology/svg/PostgresSQL.svg",
+    "rating": 4.9,
+    "difficulty": "Intermediate",
+    "badge": "Top SQL"
+  },
+  {
+    "id": "nodejs",
+    "name": "Node.js",
+    "category": "Backend",
+    "description": "Node.js is a runtime environment built on Chrome's V8 engine that allows JavaScript to run on the server. It is event-driven, lightweight, and highly scalable, making it perfect for real-time applications. Node.js powers many modern web backends and APIs.",
+    "icon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/3840px-Node.js_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "rating": 4.8,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Popular"
+  },
+  {
+    "id": "express",
+    "name": "Express.js",
+    "category": "Backend",
+    "description": "Express.js is a minimal and flexible Node.js framework for building web applications and APIs. It simplifies server-side development with routing, middleware, and HTTP utilities. Express is widely used for fast prototyping and production-ready apps.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Express.svg",
+    "rating": 4.7,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Fast"
+  },
+  {
+    "id": "mongodb",
+    "name": "MongoDB",
+    "category": "Database",
+    "description": "MongoDB is a NoSQL database that stores data in flexible, JSON-like documents. It is schema-less, allowing developers to adapt quickly to changing requirements. MongoDB is popular for modern applications needing scalability and fast performance.",
+    "icon": "https://icon.icepanel.io/Technology/svg/MongoDB.svg",
+    "rating": 4.6,
+    "difficulty": "Beginner-Friendly",
+    "badge": "NoSQL"
+  },
+  {
+    "id": "typescript",
+    "name": "TypeScript",
+    "category": "Language",
+    "description": "TypeScript is a superset of JavaScript that adds static typing and advanced tooling. It helps catch errors early and improves code maintainability. TypeScript is widely adopted in large projects and frameworks like Angular and Next.js.",
+    "icon": "https://icon.icepanel.io/Technology/svg/TypeScript.svg",
+    "rating": 4.8,
+    "difficulty": "Intermediate",
+    "badge": "Safe"
+  },
+  {
+    "id": "nextjs",
+    "name": "Next.js",
+    "category": "Frontend",
+    "description": "Next.js is a React framework that supports server-side rendering (SSR) and static site generation (SSG). It improves performance, SEO, and developer experience. Next.js is trending as the go-to solution for modern web applications.",
+    "icon": "https://images.seeklogo.com/logo-png/32/1/next-js-logo-png_seeklogo-321806.png",
+    "rating": 4.8,
+    "difficulty": "Intermediate",
+    "badge": "Trending"
+  },
+  {
+    "id": "docker",
+    "name": "Docker",
+    "category": "DevOps",
+    "description": "Docker is a containerization platform that allows developers to package applications with all dependencies. It ensures consistency across environments and simplifies deployment. Docker is essential for modern DevOps workflows.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Docker.svg",
+    "rating": 4.9,
+    "difficulty": "Intermediate",
+    "badge": "Essential"
+  },
+  {
+    "id": "graphql",
+    "name": "GraphQL",
+    "category": "API",
+    "description": "GraphQL is a query language for APIs that provides flexibility and efficiency. Clients can request exactly the data they need, reducing over-fetching. It is widely used in modern applications for better API performance.",
+    "icon": "https://icon.icepanel.io/Technology/svg/GraphQL.svg",
+    "rating": 4.7,
+    "difficulty": "Intermediate",
+    "badge": "Flexible"
+  },
+  {
+    "id": "redis",
+    "name": "Redis",
+    "category": "Database",
+    "description": "Redis is an in-memory data store used as a database, cache, and message broker. It is extremely fast and supports advanced data structures. Redis is often used to improve application performance and scalability.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Redis.svg",
+    "rating": 4.8,
+    "difficulty": "Intermediate",
+    "badge": "Fast"
+  }
+]

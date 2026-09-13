@@ -50,7 +50,9 @@ function App() {
   return (
     <>
       <Navbar></Navbar>
-      <Banner></Banner>
+      <div className="mx-30">
+        <Banner></Banner>
+      </div>
       <div className="mx-30">
         <div className="flex  gap-10">
           <Suspense fallback={<p>Loading...</p>}>
